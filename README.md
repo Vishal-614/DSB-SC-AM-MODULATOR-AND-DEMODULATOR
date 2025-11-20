@@ -34,7 +34,8 @@ PROCEDURE
 • Verify the generated waveform using Tabulation and Model Waveform
 
 MODEL GRAPH:
-image
+<img width="567" height="502" alt="Screenshot 2025-11-20 084930" src="https://github.com/user-attachments/assets/02dd827f-e192-4da6-a46f-53f0d7db449e" />
+
 PROGRAM:
   clc;  
   clear;  
